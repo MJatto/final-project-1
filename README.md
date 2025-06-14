@@ -1,1 +1,1 @@
-To build project.
+To build project
